@@ -1,0 +1,23 @@
+{
+  "doneIntroduction" : false,
+  "reachedCheckpoint" : false,
+  "room" : null,
+  "suspects" : [ {
+    "name" : "?????",
+    "involvement" : "???"
+  }, {
+    "name" : "?????",
+    "involvement" : "???"
+  }, {
+    "name" : "?????",
+    "involvement" : "???"
+  }, {
+    "name" : "?????",
+    "involvement" : "???"
+  }, {
+    "name" : "?????",
+    "involvement" : "???"
+  } ],
+  "items" : [ ],
+  "flags" : [ ]
+}
